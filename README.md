@@ -1,0 +1,2 @@
+# belajargit
+belajr git bareng
